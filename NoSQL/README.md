@@ -1,6 +1,6 @@
-#NoSQL
+# NoSQL
 
-##Resources
+## Resources
 Read or watch:
 
 NoSQL Databases Explained
@@ -12,7 +12,7 @@ Introduction to MongoDB and Python
 mongo Shell Methods
 The mongo Shell
 
-##Learning Objectives
+## Learning Objectives
 What NoSQL means
 What is difference between SQL and NoSQL
 What is ACID
@@ -23,7 +23,7 @@ How to query information from a NoSQL database
 How to insert/update/delete information from a NoSQL database
 How to use MongoDB
 
-##Requirements
+## Requirements
 MongoDB Command File
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using MongoDB (version 4.2)
 All your files should end with a new line
@@ -67,7 +67,7 @@ $ python3
 >>> pymongo.__version__
 '3.10.1'
 
-##Files
+## Files
 
 |Filename| Description|
 |--------|------------|
@@ -85,6 +85,6 @@ $ python3
 |11-schools_by_topic.py |  Python function that returns the list of school having a specific topic|
 |12-log_stats.py | Python script that provides some stats about Nginx logs stored in MongoDB|
 
-##Holberton Student
+## Holberton Student
 Tania Hillock
 Github @TaniaHillock
