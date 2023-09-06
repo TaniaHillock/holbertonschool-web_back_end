@@ -1,2 +1,2 @@
-//  Hey MongoDB please lists all databases
-show dbs
+//  MongoDB will creat database my_db
+use my_db
