@@ -26,12 +26,12 @@ Read or watch:
 
 ## Files
 
-| File Name | Description |
-| _________ | ___________ |
-| 0-simple_helper_function.py | Function named index_range that takes two integer arguments page and page_size. The function should return a tuple of size two containing a start index and an end index corresponding to the range of indexes to return in a list for those particular pagination parameters. |
-| 1-simple_pagination.py |  Method named get_page that takes two integer arguments page with default value 1 and page_size with default value 10. |
-| 2-hypermedia_pagination.py | get_hyper method that takes the same arguments (and defaults) as get_page and returns a dictionary. |
-| 3-hypermedia_del_pagination.py |  Two queries, certain rows are removed from the dataset, the user does not miss items from dataset when changing page. |
+|File Name | Description|
+|----------|------------|
+|0-simple_helper_function.py | Function named index_range that takes two integer arguments page and page_size. The function should return a tuple of size two containing a start index and an end index corresponding to the range of indexes to return in a list for those particular pagination parameters.|
+|1-simple_pagination.py |  Method named get_page that takes two integer arguments page with default value 1 and page_size with default value 10.|
+|2-hypermedia_pagination.py | get_hyper method that takes the same arguments (and defaults) as get_page and returns a dictionary.|
+|3-hypermedia_del_pagination.py |  Two queries, certain rows are removed from the dataset, the user does not miss items from dataset when changing page.|
 
 ## Holberton Student
 
