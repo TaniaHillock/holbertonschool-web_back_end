@@ -9,6 +9,9 @@ class Car {
     this._color = color;
   }
 
+  someMethod() {
+    console.log(this._brand);
+  }    
   cloneCar() {
     return new this.constructor(this._brand, this._motor, this._color);
   }
